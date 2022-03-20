@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [merkomass-discord-bot](https://github.com/MerkomassUnity/merkomass-discord-bot)
 
-- 🌱 I’m currently learning **Doing Discord bots**
+- 🌱 I’m currently learning **Discord Bots in NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
