@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merkomassunity" alt="merkomassunity" /></a> </p>
 
-- 🔭 I’m currently working on [merkomass-discord-bot](https://github.com/MerkomassUnity/merkomass-discord-bot)
+- 🔭 I’m currently working on [My first website](https://github.com/MerkomassUnity/first-website)
 
-- 🌱 I’m currently learning **Discord Bots in NodeJS**
+- 🌱 I’m currently learning **HTML, CSS, JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
