@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [neural-network-car-game](https://github.com/MerkomassDev/neural-network-car-game)
 
-- 🌱 I’m currently learning **neural networks**
+- 🌱 I’m currently learning **-**
 
 - Discord **Merkomass#1679**
 
