@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merkomassdev" alt="merkomassdev" /></a> </p>
 
-- 🔭 I’m currently working on [neural-network-car-game](https://github.com/MerkomassDev/neural-network-car-game)
+- 🔭 I’m currently working on my patience...
 
 - 🌱 I’m currently learning **-**
 
